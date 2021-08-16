@@ -8,10 +8,13 @@
 * [Linux kernel kallsyms (aarch64) extract!](https://github.com/marin-m/vmlinux-to-elf)
 # IOS
 * [ios papers!](https://papers.put.as/ios/ios/)
+* [usefull links about IOS and OSX](https://github.com/michalmalik/osx-re-101)
 # Android
 * [Implement Android Tamper-Resistant Secure Storage and Secure it in Virtualization (2018)!](https://events19.linuxfoundation.org/wp-content/uploads/2017/12/Implement-Android-Tamper-Resistant-Secure-Storage-Bing-Zhu_and-Secure-it-in-Virtualization-Bing-Zhu-Intel-Corporation.pdf)
+* [list of public TEE resources!](https://github.com/enovella/TEE-reversing)
 # Linux
 * [Tracking CVEs for the linux Kernel !](https://github.com/nluedtke/linux_kernel_cves)
+* [A collection of links related to Linux kernel security and exploitation!](https://github.com/xairy/linux-kernel-exploitation)
 # Windows
 * [VMProtect 2 - Detailed Analysis of the Virtual Machine Architecture!](https://back.engineering/17/05/2021/)
 # Side-Channel Analysis
