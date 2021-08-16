@@ -25,7 +25,9 @@
 * [embedded device hacking devttys0 blog!](http://www.devttys0.com/)
 * [RET2 SYSTEMS ENGINEERING BLOG!](https://blog.ret2.io/)
 * [Back Engineering blog!](https://back.engineering/)
-# Other
-* [How to create an OS from scratch!!](https://github.com/cfenollosa/os-tutorial)
 # Data Science
 * [3 Python Packages That Make Data Science Simple!](https://medium.com/trymito/3-python-packages-that-make-data-science-simple-25695dc565d)
+# Other
+* [How to create an OS from scratch!!](https://github.com/cfenollosa/os-tutorial)
+* [ARM Hacking :)!](https://azeria-labs.com/about/)
+* [LiveOverflow videos about Binary Exploitation!](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
