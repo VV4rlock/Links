@@ -31,6 +31,8 @@
 * [Back Engineering blog (https://back.engineering/)](https://back.engineering/)
 # Data Science
 * [3 Python Packages That Make Data Science Simple (https://medium.com/trymito/3-python-packages-that-make-data-science-simple-25695dc565d)](https://medium.com/trymito/3-python-packages-that-make-data-science-simple-25695dc565d)
+# Python
+* [10 Killer Ways To Speed Up Python (https://towardsdatascience.com/10-killer-ways-to-speed-up-python-9c23d932da33)](https://towardsdatascience.com/10-killer-ways-to-speed-up-python-9c23d932da33)
 # Other
 * [How to create an OS from scratch (https://github.com/cfenollosa/os-tutorial)](https://github.com/cfenollosa/os-tutorial)
 * [ARM Hacking :) (https://azeria-labs.com/about/)](https://azeria-labs.com/about/)
