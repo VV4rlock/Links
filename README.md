@@ -16,6 +16,8 @@
 # Linux
 * [Tracking CVEs for the linux Kernel (https://github.com/nluedtke/linux_kernel_cves)](https://github.com/nluedtke/linux_kernel_cves)
 * [A collection of links related to Linux kernel security and exploitation (https://github.com/xairy/linux-kernel-exploitation)](https://github.com/xairy/linux-kernel-exploitation)
+* [https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html(https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html)](https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html)
+* [Airs – Ian Lance Taylor. Linkers part 1 (... -20)(https://www.airs.com/blog/archives/38)](https://www.airs.com/blog/archives/38)
 # Windows
 * [VMProtect 2 - Detailed Analysis of the Virtual Machine Architecture (https://back.engineering/17/05/2021/)](https://back.engineering/17/05/2021/)
 # Side-Channel Analysis
