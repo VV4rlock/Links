@@ -32,6 +32,7 @@
 * [RET2 SYSTEMS ENGINEERING BLOG (https://blog.ret2.io/)](https://blog.ret2.io/)
 * [Back Engineering blog (https://back.engineering/)](https://back.engineering/)
 * [Longterm Security blog (https://www.longterm.io/)](https://www.longterm.io/)
+* [Alex Matrosov (https://matrosov.medium.com/)](https://matrosov.medium.com/)
 # Data Science
 * [3 Python Packages That Make Data Science Simple (https://medium.com/trymito/3-python-packages-that-make-data-science-simple-25695dc565d)](https://medium.com/trymito/3-python-packages-that-make-data-science-simple-25695dc565d)
 # Python
