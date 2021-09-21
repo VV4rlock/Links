@@ -37,6 +37,7 @@
 * [3 Python Packages That Make Data Science Simple (https://medium.com/trymito/3-python-packages-that-make-data-science-simple-25695dc565d)](https://medium.com/trymito/3-python-packages-that-make-data-science-simple-25695dc565d)
 # Fundamental
 * [Educational Heap Exploitation (https://github.com/shellphish/how2heap)](https://github.com/shellphish/how2heap)
+* [ Dhaval Kapil Heap Exploitation (https://heap-exploitation.dhavalkapil.com/)](https://heap-exploitation.dhavalkapil.com/)
 * [How to create an OS from scratch (https://github.com/cfenollosa/os-tutorial)](https://github.com/cfenollosa/os-tutorial)
 * [ARM Hacking :) (https://azeria-labs.com/about/)](https://azeria-labs.com/about/)
 * [LiveOverflow videos about Binary Exploitation (https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
