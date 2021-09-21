@@ -35,9 +35,11 @@
 * [Alex Matrosov (https://matrosov.medium.com/)](https://matrosov.medium.com/)
 # Data Science
 * [3 Python Packages That Make Data Science Simple (https://medium.com/trymito/3-python-packages-that-make-data-science-simple-25695dc565d)](https://medium.com/trymito/3-python-packages-that-make-data-science-simple-25695dc565d)
-# Python
-* [10 Killer Ways To Speed Up Python (https://towardsdatascience.com/10-killer-ways-to-speed-up-python-9c23d932da33)](https://towardsdatascience.com/10-killer-ways-to-speed-up-python-9c23d932da33)
-# Other
+# Fundamental
+* [Educational Heap Exploitation (https://github.com/shellphish/how2heap)](https://github.com/shellphish/how2heap)
 * [How to create an OS from scratch (https://github.com/cfenollosa/os-tutorial)](https://github.com/cfenollosa/os-tutorial)
 * [ARM Hacking :) (https://azeria-labs.com/about/)](https://azeria-labs.com/about/)
 * [LiveOverflow videos about Binary Exploitation (https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+# Python
+* [10 Killer Ways To Speed Up Python (https://towardsdatascience.com/10-killer-ways-to-speed-up-python-9c23d932da33)](https://towardsdatascience.com/10-killer-ways-to-speed-up-python-9c23d932da33)
+
