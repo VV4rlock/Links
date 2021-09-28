@@ -13,6 +13,7 @@
 # Android
 * [Implement Android Tamper-Resistant Secure Storage and Secure it in Virtualization (2018) (https://events19.linuxfoundation.org/wp-content/uploads/2017/12/Implement-Android-Tamper-Resistant-Secure-Storage-Bing-Zhu_and-Secure-it-in-Virtualization-Bing-Zhu-Intel-Corporation.pdf)](https://events19.linuxfoundation.org/wp-content/uploads/2017/12/Implement-Android-Tamper-Resistant-Secure-Storage-Bing-Zhu_and-Secure-it-in-Virtualization-Bing-Zhu-Intel-Corporation.pdf)
 * [list of public TEE resources (https://github.com/enovella/TEE-reversing)](https://github.com/enovella/TEE-reversing)
+* [ANDROID DEVICE PARTITIONS and FILESYSTEMS (https://forum.xda-developers.com/t/info-android-device-partitions-and-filesystems.3586565/)](https://forum.xda-developers.com/t/info-android-device-partitions-and-filesystems.3586565/)
 # Linux
 * [Tracking CVEs for the linux Kernel (https://github.com/nluedtke/linux_kernel_cves)](https://github.com/nluedtke/linux_kernel_cves)
 * [A collection of links related to Linux kernel security and exploitation (https://github.com/xairy/linux-kernel-exploitation)](https://github.com/xairy/linux-kernel-exploitation)
