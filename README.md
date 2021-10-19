@@ -35,6 +35,8 @@
 * [Longterm Security blog (https://www.longterm.io/)](https://www.longterm.io/)
 * [Alex Matrosov (https://matrosov.medium.com/)](https://matrosov.medium.com/)
 * [xret2pwn #Windows https://xret2pwn.github.io/](https://xret2pwn.github.io/)
+# Conferences
+* [PowerOfCommunity https://powerofcommunity.net/](https://powerofcommunity.net/)
 # Data Science
 * [3 Python Packages That Make Data Science Simple (https://medium.com/trymito/3-python-packages-that-make-data-science-simple-25695dc565d)](https://medium.com/trymito/3-python-packages-that-make-data-science-simple-25695dc565d)
 # Fundamental
