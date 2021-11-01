@@ -45,6 +45,7 @@
 * [How to create an OS from scratch (https://github.com/cfenollosa/os-tutorial)](https://github.com/cfenollosa/os-tutorial)
 * [ARM Hacking :) (https://azeria-labs.com/about/)](https://azeria-labs.com/about/)
 * [LiveOverflow videos about Binary Exploitation (https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+* [ARMv8 VMSA (https://armv8-ref.codingbelief.com/en/about_this_manual.html)](https://armv8-ref.codingbelief.com/en/about_this_manual.html)
 # Python
 * [10 Killer Ways To Speed Up Python (https://towardsdatascience.com/10-killer-ways-to-speed-up-python-9c23d932da33)](https://towardsdatascience.com/10-killer-ways-to-speed-up-python-9c23d932da33)
 
