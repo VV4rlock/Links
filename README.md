@@ -34,7 +34,8 @@
 * [Back Engineering blog (https://back.engineering/)](https://back.engineering/)
 * [Longterm Security blog (https://www.longterm.io/)](https://www.longterm.io/)
 * [Alex Matrosov (https://matrosov.medium.com/)](https://matrosov.medium.com/)
-* [xret2pwn #Windows https://xret2pwn.github.io/](https://xret2pwn.github.io/)
+* [xret2pwn #Windows (https://xret2pwn.github.io/)](https://xret2pwn.github.io/)
+* [Gamozo Labs Blog #Fuzzing (https://gamozolabs.github.io/)](https://gamozolabs.github.io/)
 # Conferences
 * [PowerOfCommunity https://powerofcommunity.net/](https://powerofcommunity.net/)
 # Data Science
