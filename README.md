@@ -19,6 +19,7 @@
 * [A collection of links related to Linux kernel security and exploitation (https://github.com/xairy/linux-kernel-exploitation)](https://github.com/xairy/linux-kernel-exploitation)
 * [PLT and GOT - the key to code sharing and dynamic libraries](https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html)
 * [Airs – Ian Lance Taylor. Linkers part 1 (... -20)(https://www.airs.com/blog/archives/38)](https://www.airs.com/blog/archives/38)
+* [Everything You Wanted to Know About Kernel Livepatch in Ubuntu](https://ruffell.nz/programming/writeups/2020/04/20/everything-you-wanted-to-know-about-kernel-livepatch-in-ubuntu.html#:~:text=Livepatch%20is%20implemented%20by%20compiling,function%20in%20the%20kernel%20module.)
 # Windows
 * [VMProtect 2 - Detailed Analysis of the Virtual Machine Architecture (https://back.engineering/17/05/2021/)](https://back.engineering/17/05/2021/)
 # Side-Channel Analysis
@@ -36,6 +37,7 @@
 * [Alex Matrosov (https://matrosov.medium.com/)](https://matrosov.medium.com/)
 * [xret2pwn #Windows (https://xret2pwn.github.io/)](https://xret2pwn.github.io/)
 * [Gamozo Labs Blog #Fuzzing (https://gamozolabs.github.io/)](https://gamozolabs.github.io/)
+* [Matthew Ruffell #LinuxKernel #Reverse #Programming (https://ruffell.nz/)](https://ruffell.nz/)
 # Conferences
 * [PowerOfCommunity https://powerofcommunity.net/](https://powerofcommunity.net/)
 # Data Science
