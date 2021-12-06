@@ -28,6 +28,7 @@
 * [Exploiting Wi-Fi Stack on Tesla Model S (https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/)](https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/)
 # Programming
 * [What every programmer should know about memory (https://lwn.net/Articles/250967/)](https://lwn.net/Articles/250967/)
+* [C++ - лектор Мещерин, МФТИ](https://youtube.com/playlist?list=PL4_hYwCyhAvY2dY_tnTv3-TJThzcloCvM)
 # Blogs
 * [Google Project Zero blog (https://googleprojectzero.blogspot.com/)](https://googleprojectzero.blogspot.com/)
 * [embedded device hacking devttys0 blog (http://www.devttys0.com/)](http://www.devttys0.com/)
