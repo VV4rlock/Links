@@ -39,6 +39,8 @@
 * [xret2pwn #Windows (https://xret2pwn.github.io/)](https://xret2pwn.github.io/)
 * [Gamozo Labs Blog #Fuzzing (https://gamozolabs.github.io/)](https://gamozolabs.github.io/)
 * [Matthew Ruffell #LinuxKernel #Reverse #Programming (https://ruffell.nz/)](https://ruffell.nz/)
+* [Network Security Research Lab at 360](https://blog.netlab.360.com/)
+* [360 total security lab blog](https://vul.360.net/archive)
 # Conferences
 * [PowerOfCommunity https://powerofcommunity.net/](https://powerofcommunity.net/)
 # Data Science
