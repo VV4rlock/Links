@@ -42,6 +42,7 @@
 * [Network Security Research Lab at 360](https://blog.netlab.360.com/)
 * [360 total security lab blog](https://vul.360.net/archive)
 * [lab p1sec Telecom Security](https://labs.p1sec.com/category/reverse-engineering/)
+* [secrary[dot]com blog](https://secrary.com/)
 # Conferences
 * [PowerOfCommunity https://powerofcommunity.net/](https://powerofcommunity.net/)
 * [Offensivecon](https://www.offensivecon.org/archive.html)
