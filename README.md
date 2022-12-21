@@ -10,6 +10,7 @@
 * [ios papers (https://papers.put.as/ios/ios/)](https://papers.put.as/ios/ios/)
 * [usefull links about IOS and OSX (https://github.com/michalmalik/osx-re-101)](https://github.com/michalmalik/osx-re-101)
 * [Writing an iOS Kernel Exploit from Scratch (https://secfault-security.com/blog/chain3.html)](https://secfault-security.com/blog/chain3.html)
+* [iOS exploit writeup list](https://github.com/houjingyi233/macOS-iOS-system-security)
 # Android
 * [Implement Android Tamper-Resistant Secure Storage and Secure it in Virtualization (2018) (https://events19.linuxfoundation.org/wp-content/uploads/2017/12/Implement-Android-Tamper-Resistant-Secure-Storage-Bing-Zhu_and-Secure-it-in-Virtualization-Bing-Zhu-Intel-Corporation.pdf)](https://events19.linuxfoundation.org/wp-content/uploads/2017/12/Implement-Android-Tamper-Resistant-Secure-Storage-Bing-Zhu_and-Secure-it-in-Virtualization-Bing-Zhu-Intel-Corporation.pdf)
 * [list of public TEE resources (https://github.com/enovella/TEE-reversing)](https://github.com/enovella/TEE-reversing)
