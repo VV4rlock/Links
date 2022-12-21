@@ -32,6 +32,7 @@
 * [C++ - лектор Мещерин, МФТИ](https://youtube.com/playlist?list=PL4_hYwCyhAvY2dY_tnTv3-TJThzcloCvM)
 # Blogs
 * [Google Project Zero blog (https://googleprojectzero.blogspot.com/)](https://googleprojectzero.blogspot.com/)
+* [Quarkslab's blog (https://blog.quarkslab.com/)](https://blog.quarkslab.com/)
 * [embedded device hacking devttys0 blog (http://www.devttys0.com/)](http://www.devttys0.com/)
 * [RET2 SYSTEMS ENGINEERING BLOG (https://blog.ret2.io/)](https://blog.ret2.io/)
 * [Back Engineering blog (https://back.engineering/)](https://back.engineering/)
