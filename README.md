@@ -49,6 +49,7 @@
 * [PowerOfCommunity https://powerofcommunity.net/](https://powerofcommunity.net/)
 * [Offensivecon](https://www.offensivecon.org/archive.html)
 * [BlackHat](https://www.blackhat.com/html/archives.html)
+* [MOSEC](https://www.mosec.org/en/)
 # Data Science
 * [3 Python Packages That Make Data Science Simple (https://medium.com/trymito/3-python-packages-that-make-data-science-simple-25695dc565d)](https://medium.com/trymito/3-python-packages-that-make-data-science-simple-25695dc565d)
 # Fundamental
